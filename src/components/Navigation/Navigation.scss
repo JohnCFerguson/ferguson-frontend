@@ -13,3 +13,10 @@
         }
     }
 }
+
+@import '~react-md/src/scss/react-md';
+@import '../../layout/theme.scss';
+
+@include react-md-everything;
+
+$md-toolbar-include-themed: true !default;

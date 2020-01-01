@@ -14,17 +14,17 @@ const config = {
     postDefaultCategoryID: "Tech", // Default category for posts.
     dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
     dateFormat: "DD/MM/YYYY", // Date format for display.
-    userName: "Material User", // Username to display in the author segment.
+    userName: "JohnF", // Username to display in the author segment.
     userTwitter: "", // Optionally renders "Follow Me" in the UserInfo segment.
     userLocation: "Salt Lake City, UT", // User location to display in the author segment.
     userAvatar: "https://api.adorable.io/avatars/150/test.png", // User avatar to display in the author segment.
     userDescription:
-      "Yeah, I like animals better than people sometimes... Especially dogs. Dogs are the best. Every time you come home, they act like they haven't seen you in a year. And the good thing about dogs... is they got different dogs for different people.", // User description to display in the author segment.
+      "My name is John Ferguson and I enjoy building software. Web applications, mobile applications, computer applications, you name it I enjoy it. When I'm not building software I enjoy snowboarding, playing video games, building computers, and of course, spending time with my family. I believe the key to staying focused at work is to be focused on other things while outside of work, so that you are able to return to the tasks when at the office with a fresh perspective.", // User description to display in the author segment.
     // Links to social profiles/projects you want to display in the author segment/navigation bar.
     userLinks: [
       {
         label: "GitHub",
-        url: "https://github.com/VJohnCFerguson/ferguson-frontend",
+        url: "https://github.com/JohnCFerguson/ferguson-frontend",
         iconClassName: "fa fa-github"
       },
       {

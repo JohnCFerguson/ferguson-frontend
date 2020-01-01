@@ -11,7 +11,7 @@ class Index extends React.Component {
     const postEdges = this.props.data.allMarkdownRemark.edges;
     return (
       <Layout location={this.props.location} title="Home">
-        <div className="index-container">
+        <div className="index-container dark-theme">
           <Helmet>
             <title>{config.siteTitle}</title>
             <link rel="canonical" href={`${config.siteUrl}`} />
