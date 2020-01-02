@@ -28,10 +28,15 @@ const config = {
         iconClassName: "fa fa-github"
       },
       {
+        label: "LinkedIn",
+        url: "https://www.linkedin.com/in/john-ferguson-8442b1b9/",
+        iconClassName: "fa fa-linkedin"
+      },
+      {
         label: "Email",
         url: "mailto:johncferguson90@gmail.com",
         iconClassName: "fa fa-envelope"
-      }
+      },
     ],
     copyright: "Copyright © 2019. John Ferguson" // Copyright string for the footer of the website and RSS feed.
   };
