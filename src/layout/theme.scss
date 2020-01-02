@@ -10,7 +10,8 @@ $md-light-theme: false;
 
 .main-container,
 .darker-background {
-    background-color: $md-tertiary-color
+    background-color: $md-tertiary-color;
+    color: $concrete;
 }
 
 a:link {
