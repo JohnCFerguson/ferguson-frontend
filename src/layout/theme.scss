@@ -1,20 +1,16 @@
 @import '~react-md/src/scss/react-md';
 @import 'variables';
-$md-primary-color: $md-grey-400;
-$md-secondary-color: $md-red-800;
-$md-tertiary-color: $md-grey-300;
 
+$md-light-theme: false;
 
-@include react-md-theme-everything(
-    $md-primary-color,
-    $md-secondary-color,
-    false, // specifies dark-theme
-    'dark-theme'
-);
+@include react-md-everything;
+
+// Or for a subsection
+@include react-md-theme-everything($md-primary-color, $md-secondary-color, $md-light-theme, 'custom-theme');
 
 .main-container,
 .darker-background {
-    background-color: $md-tertiary-color;
+    background-color: $md-tertiary-color
 }
 
 a:link {
