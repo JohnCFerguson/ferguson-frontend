@@ -14,6 +14,12 @@
     }
 }
 
+@media screen and (min-width: 768px){
+    .md-drawer-relative--mini.md-drawer-relative--mini, .md-drawer-relative.md-drawer-relative {
+        display: flex
+    }
+}
+
 @import '~react-md/src/scss/react-md';
 @import '../../layout/theme.scss';
 
