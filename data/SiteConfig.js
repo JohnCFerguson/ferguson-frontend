@@ -10,7 +10,7 @@ const config = {
     siteRss: "/rss.xml", // Path to the RSS file.
     siteFBAppID: "981973275521063", // FB Application ID for using app insights
     siteGATrackingID: "UA-155243212-1", // Tracking code ID for google analytics.
-    disqusShortname: "https-johncferguson-website", // Disqus shortname.
+    disqusShortname: "jferguson-info", // Disqus shortname.
     postDefaultCategoryID: "Tech", // Default category for posts.
     dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
     dateFormat: "DD/MM/YYYY", // Date format for display.
