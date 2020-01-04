@@ -23,6 +23,11 @@ const config = {
     // Links to social profiles/projects you want to display in the author segment/navigation bar.
     userLinks: [
       {
+        lable: "Blog",
+        url: "/blog",
+        iconClassName: "fa fa-comment"
+      },
+      {
         label: "GitHub",
         url: "https://github.com/JohnCFerguson/",
         iconClassName: "fa fa-github"
@@ -39,7 +44,7 @@ const config = {
       },
     ],
     copyright: "Copyright © 2019. John Ferguson" // Copyright string for the footer of the website and RSS feed.
-  };
+};
 
 // Validate
 
