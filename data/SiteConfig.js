@@ -19,7 +19,7 @@ const config = {
     userLocation: "Salt Lake City, UT", // User location to display in the author segment.
     userAvatar: "https://media.licdn.com/dms/image/C5603AQGkvP3CsZJnXw/profile-displayphoto-shrink_200_200/0?e=1583366400&v=beta&t=D2fHuioU1deMawUckfFkw-viQEyvamdkLLep0elFoPI", // User avatar to display in the author segment.
     userDescription:
-      "My name is John Ferguson and I enjoy building software. Web applications, mobile applications, computer applications, you name it I enjoy it. When I'm not building software I enjoy snowboarding, playing video games, building computers, and of course, spending time with my family. I believe the key to staying focused at work is to be focused on other things while outside of work, so that you are able to return to the tasks when at the office with a fresh perspective.", // User description to display in the author segment.
+      "My name is John Ferguson and I enjoy building software. Web applications, mobile applications, computer applications, you name it and I probably enjoy it. When I'm not building software I enjoy spending time with my family, snowboarding, playing video games, building computers, and of course learning more about software development. I believe the key to staying focused at work is to be focused on other things while outside of work, so that you are able to return to the tasks when at the office with a fresh perspective. I currently Work for Netflix as a Studio Production Specialist investigating issues on applications that ease the flow of entertainment development from Script to Screen.", // User description to display in the author segment.
     // Links to social profiles/projects you want to display in the author segment/navigation bar.
     userLinks: [
       {
