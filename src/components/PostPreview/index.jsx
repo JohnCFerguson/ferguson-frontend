@@ -41,6 +41,7 @@ class PostPreview extends Component {
     const { postInfo } = this.props;
     const { mobile } = this.state;
     const expand = mobile;
+    console.log(postInfo);
     /* eslint no-undef: "off" */
     const coverHeight = mobile ? 162 : 225;
     return (

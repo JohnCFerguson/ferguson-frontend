@@ -23,6 +23,8 @@ export default class PostTemplate extends React.Component {
       mobile: true
     };
     this.handleResize = this.handleResize.bind(this);
+
+    console.log(props);
   }
 
   componentDidMount() {

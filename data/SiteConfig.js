@@ -23,9 +23,14 @@ const config = {
     // Links to social profiles/projects you want to display in the author segment/navigation bar.
     userLinks: [
       {
-        lable: "Blog",
+        label: "Blog",
         url: "/blog",
         iconClassName: "fa fa-comment"
+      },
+      {
+        label: "Resume",
+        url: "/resume",
+        iconClassName: "fa fa-file-text-o"
       },
       {
         label: "GitHub",
@@ -34,7 +39,7 @@ const config = {
       },
       {
         label: "LinkedIn",
-        url: "https://www.linkedin.com/in/john-ferguson-8442b1b9/",
+        url: "https://www.linkedin.com/in/jferguson90/",
         iconClassName: "fa fa-linkedin"
       },
       {
