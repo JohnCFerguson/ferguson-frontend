@@ -6,6 +6,7 @@ class UserLinks extends Component {
   getLinkElements() {
     const { userLinks } = this.props.config;
     const { labeled } = this.props;
+    console.log(userLinks);
     return userLinks.map(link => (
       <Button
         icon={!labeled}

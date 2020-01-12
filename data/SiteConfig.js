@@ -23,13 +23,23 @@ const config = {
     // Links to social profiles/projects you want to display in the author segment/navigation bar.
     userLinks: [
       {
+        label: "Blog",
+        url: "/blog",
+        iconClassName: "fa fa-comment"
+      },
+      {
+        label: "Resume",
+        url: "/resume",
+        iconClassName: "fa fa-file-text-o"
+      },
+      {
         label: "GitHub",
         url: "https://github.com/JohnCFerguson/",
         iconClassName: "fa fa-github"
       },
       {
         label: "LinkedIn",
-        url: "https://www.linkedin.com/in/john-ferguson-8442b1b9/",
+        url: "https://www.linkedin.com/in/jferguson90/",
         iconClassName: "fa fa-linkedin"
       },
       {
@@ -39,7 +49,7 @@ const config = {
       },
     ],
     copyright: "Copyright © 2019. John Ferguson" // Copyright string for the footer of the website and RSS feed.
-  };
+};
 
 // Validate
 
