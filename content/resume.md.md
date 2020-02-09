@@ -9,73 +9,54 @@ tags:
   - Profession
   - Info
 ---
-# **John C. Ferguson**
+# Work experience
 
-### Skills & Abilities
+##### 2019 – Present Studio Production Specialist at Netflix
 
-#### PROJECT DEVELOPMENT AND INTEGRATION
+* Provided technical expertise for a wide variety of applications designed to enhance the flow of production documentation and assets to the studio for visibility and storage Communicated with pertinent stakeholders during global application outages ensuring UX information flowed to engineering seamlessly.
+* Created training materials for and mentored newly hired specialists
+* Investigated multiple bugs/issues across a wide suite of studio production applications ensuring each application met users needs
+* Initiated communication with engineering based on user feedback for application interfaces to enact product improvements
 
-* Designed, developed, and integrated python web application utilized by the entire customer service network to be able to view select information from Jira issues and submit formatted comments through a basic user interface
-* Created a full stack node.js and React application to allow user profile creation and the submission of text feedback by users
-* Developed and implemented a tool to allow remote uploads to Google Drive utilizing HTML/Javascript, Google Scripts, and Google APIs
-* Designed and developed and maintained multiple internal tools utilizing HTML, C# and MSSQL improving company metrics analysis
+##### 2018 – 2019 Technical Research Analyst at Netflix
 
-#### COMPUTER LANGUAGES
+Python | Flask | HTML | JavaScript | GCP
 
-* Java | JavaScript | Node.JS | Python | HTML/CSS | SQL | C# .net
+* Developed Python web app used by over 200 level 2 customer service agents to provide needed data on current known issues and bugs	 
+* Implemented team to maintain application
+* Led team of analysts in the investigation and documentation of complex technical research
+* Examined customer service technical data to ensure accuracy of data provided to customers 
+* Reviewed trending issues to ensure info provided to engineering would provide necessary data to drive resolutions and mitigate impact to 170+  million customers
 
-#### FRAMEWORKS
-* React.JS | Gatsby.JS | Angular
+##### 2015 – 2017 Software Developer at 367th TRSS, USAF
 
-### Experience
+* Led a small team of developers working with Graphics artists, Designers, Analysts and QA to provide custom computer based training courses for maintenance groups throughout the USAF 
+* Managed transition of course development from Actionscript 3 to HTML5
 
-##### STUDIO PRODUCTION SPECIALIST | NETFLIX | 2019–PRESENT
+2009-2015 Aviation Maintenance Supervisor at 317 MXS, USAF
 
-* Planned and executed the creation of the Studio Production Specialist role from conception to launch, pivotal in creating training materials and providing guidance to newly hired specialists
-* Provided technical guidance for applications across multiple platforms designed to streamline the studio production process
-* Communicated with pertinent stakeholders during global application outages ensuring user experience information flowed to engineering seamlessly
-* Diagnosed and prioritized multiple bugs/issues across a wide suite of studio production applications ensuring each application met users needs
-* Quantified and qualified user feedback for application interfaces and provided feedback to engineering teams to enact product improvements
+* Managed team of 10 individuals performing complex maintenance on 28  $62 million-dollar aircraft 
+* Supervised the removal, installation, and rigging of flight controls and landing gear
+* Inspected/certified maintenance and evaluated aircraft for flight worthiness
+* Provided yearly performance reports for each individual on my team to ensure standards were maintained.
 
-##### TECHNICAL RESEARCH ANALYST | NETFLIX | 2018–2019
+# Education and Certifications
 
-* Implemented team to maintain application created to allow customer service representatives provide direct issue feedback
-* Handled in-depth technical and product based questions and escalations from Customer Service centers around the globe.
-* Investigated, documented, and researched complex technical issues that impacted the Netflix service
-* Identified negatively trending issues that impacted the Netflix service and documented them in actionable ways
-* Provided technical insight to the Global Escalations team and provided answers to general and technical inquiries about the Netflix service
-* Created google scripts application utilizing google APIs to upload documents from a web form to google drive ensuring simplistic data capture to further investigations
+#### 2017– 2019 B.S., Software Development
 
-##### HELPDESK TECHNICIAN | GAUSS MANAGEMENT RESEARCH AND ENGINEERING | 2018–2018
+###### Western Governors University
 
-* Managed user accounts and personal computers and network connectivity, installed and maintained software versions and virtual machine environments
-
-##### LEVEL 1 HELPDESK TECHNICIAN | UNISYS | 2017–2018
-
-* Provided technical support for the United States Army and sister branches, assisted users is a number of issues from website account access to troubleshooting known errors.
-
-##### COMPUTER BASED TRAINING DEVELOPER | 367THTRSS – UNITED STATES AIR FORCE | 2015–2017
-
-* Worked in small team with Graphics Developer, Designer, Analyst, and Evaluator to develop computer-based training courses for multiple agencies within the United States Air Force utilizing object-oriented programming techniques
-* Developed and maintained multiple applications that utilized a wide variety of languages including Legacy languages such as ActionScript 2 and Legacy HTML, HTML5/CSS/JavaScript, ActionScript 3, C#, and SQL
-
-##### AEROSPACE MAINTENANCE TECHNICIAN | 317THMXS – UNITED STATES AIR FORCE | 2009–2015
-
-* Responsible for maintaining, troubleshooting, and removal and replacement of flight controls and landing gear components on 28 $62 million-dollar aircraft
-* Supervised crew of 10 people in removal and replacement of multiple faulty parts in aircraft flight controls, preventing emergencies during flight
-
-### EDUCATION AND TRAINING
-
-#### B.S., SOFTWARE DEVELOPMENT | OCTOBER 2019 | WESTERN GOVERNORS UNIVERSITY
-
-#### A.A.S., AVIATION MAINTENANCE TECHNOLOGY | JUNE 2015 | COMMUNITY COLLEGE OF THE AIR FORCE
-
-#### CERTIFICATIONS
-
-* 2019: Oracle SQL Certified Associate
-* 2018: CompTIA Project +
+* 2019: Oracle SQL Certified Associate 2018: CompTIA Project +
 * 2018 CIW - User Interface Designer
 * 2018 CIW - Advanced HTML5 and CSS3 Specialist
 * 2017: CompTIA Security +
 * 2017: CompTIA A+
 * 2017: CIW – Site Development Associate
+
+# Tech skills and competences
+
+Languages: Java | Python | Node.js | Javascript | HTML5 | CSS 
+
+Frameworks: React.js | Gatsby.js | Angular | Flask | Express
+
+Technologies: JIRA | Confluence | Git | Docker | GCP
