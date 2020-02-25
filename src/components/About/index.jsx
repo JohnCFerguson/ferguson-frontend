@@ -18,8 +18,8 @@ class About extends Component {
             />
             <CardText>
               <p className="about-text md-body-1">{config.userDescription}</p>
-            </CardText>
-            <UserLinks labeled config={config} />
+              </CardText>
+            
           </div>
         </Card>
       </div>
@@ -28,3 +28,4 @@ class About extends Component {
 }
 
 export default About;
+//<UserLinks labeled config={config} />
