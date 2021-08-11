@@ -9,56 +9,56 @@ tags:
   - Profession
   - Info
 ---
-# Tech skills and competences
+**Employment:**  
 
-Languages: Java | Python | Node.js | Javascript | HTML5 | CSS 
+*Studio Production Specialist  Netflix 2019 – Present*
 
-Frameworks: React.js | Gatsby.js | Angular | Flask | Express
+* Developed Node.js CLI designed to streamline onboarding process for troubleshooting issues, integrating multiple web pages and inputs into a single command
+* Provide technical expertise and troubleshooting for suite of > 50 applications designed to enhance the flow of documentation and assets to the studio for visibility, storage, and release
+* Communicate in-depth technical analysis of issues to engineering, including issue reproduction, root cause analysis, and determine scope/scale of issues 
+* Provide severity analysis based on UX utilizing Kibana queries and visualizations and consumer sentiment
 
-Technologies: JIRA | Confluence | Git | Docker | GCP
+*Technical Research Analyst Netflix 2018 – 2019* 
 
-# Work experience
+* Designed, developed, and implemented Python web app used by over 200 level 2 customer service agents to provide needed data on current known issues and bugs, saving $5.1 million
+* Collaborated with peers to reproduce and develop theories on the root cause of issues occurring on multiple platforms
+* Analyzed trending issues to ensure info provided to engineering would provide necessary data to drive resolutions and mitigate impact to 170+  million customers
 
-#### 2019 – Present Studio Production Specialist at Netflix
+*Software Developer 367th TRSS, USAF 2015 – 2017* 
 
-* Provided technical expertise for a wide variety of applications designed to enhance the flow of production documentation and assets to the studio for visibility and storage
-* Communicated with pertinent stakeholders during global application outages ensuring UX information flowed to engineering seamlessly.
-* Created training materials for and mentored newly hired specialists
-* Investigated multiple bugs/issues across a wide suite of studio production applications ensuring each application met users needs
-* Initiated communication with engineering based on user feedback for application interfaces to enact product improvements
+* Led team of developers building computer based training courses (CBTs) in the implementation and function development provided by course content creators
+* Utilized/Maintained/Upgraded MVC framework used to develop action oriented CBTs used in the instruction of >100,000 USAF aircraft maintainers 
+* Developed training plan for transition from Actionscript 3 to HTML5 for course production
 
-#### 2018 – 2019 Technical Research Analyst at Netflix
+*Aviation Maintenance Supervisor 317 MXS, USAF 2009 - 2015* 
 
-Python | Flask | HTML | JavaScript | GCP
-
-* Developed web app used by over 200 level 2 customer service agents to provide needed data on current known issues and bugs, saving $5.1 million
-* Led team of analysts in the investigation and documentation of complex technical research
-* Examined customer service technical data to ensure accuracy of data provided to customers
-* Implemented team to maintain and enhance this application
-* Reviewed trending issues to ensure info provided to engineering would provide necessary data to drive resolutions and mitigate impact to 170+ million customersDeveloped web app used by over 200 level 2 customer service agents to provide needed data on current known issues and bugs, saving $5.1 million
-
-#### 2015 – 2017 Software Developer at 367th TRSS, USAF
-
-* Led a small team of developers working with Graphics artists, Designers, Analysts and QA to provide custom computer based training courses for maintenance groups throughout the USAF
-* Managed transition of course development from Actionscript 3 to HTML5
-
-#### 2009 - 2015 Aviation Maintenance Supervisor at 317 MXS, USAF
-
-* Managed team of 10 individuals performing complex maintenance on 28 $62 million-dollar aircraft
+* Managed team of 10 individuals performing complex maintenance on 28  $62 million-dollar aircraft
 * Supervised the removal, installation, and rigging of flight controls and landing gear
 * Inspected/certified maintenance and evaluated aircraft for flight worthiness
 * Provided yearly performance reports for each individual on my team to ensure standards were maintained.
 
-# Education and Certifications
+**Education:**   
 
-#### 2017– 2019 B.S., Software Development
+Salt Lake City, UT
+Western Governors University
+Fall 2017 – Fall 2019
+*B.S., Software Development*
 
-###### Western Governors University
+*Undergraduate Coursework*: 
 
-* 2019: Oracle SQL Certified Associate 
-* 2018: CompTIA Project +
-* 2018 CIW - User Interface Designer
-* 2018 CIW - Advanced HTML5 and CSS3 Specialist
-* 2017: CompTIA Security +
-* 2017: CompTIA A+
-* 2017: CIW – Site Development Associate
+* Data Structures and Algorithms I;Data Management - Foundations;Advanced Data Management;Web Development Foundations;User Interface Design;Software Development Capstone
+
+**Technical Experience:**
+
+*Projects*  
+
+* **Salon Web Portal (2021)**. Website built for local salon and spa. Allows users to view information about the salon and employees and links to application to schedule appointments and buy products. https://www.sandandsagebrush.com - https://https://github.com/JohnCFerguson/sand_and_sagebrush Node.js, Gatsby.js 
+* **Feedback Delivery Tool (2019)**. Web application developed to allow feedback to be delivered with management visibility to provide insight in trends. https://revanjs.herokuapp.com/ - https://github.com/JohnCFerguson/RevanJS  Node.js, React, MongoDB
+
+*Certifications* 
+
+ITIL Foundations;Oracle SQL Certified Associate;CompTIA Project +;CIW - User Interface Designer;CIW - Advanced HTML5 and CSS3 Specialist;CIW – Site Development Associate Languages
+
+*Technologies* 
+
+Javascript; Node.js; Python; HTML5;  CSS; Java JIRA; Confluence; Git; Visual Studio Code; Eclipse; REST; GraphQL; GCP; AWS
