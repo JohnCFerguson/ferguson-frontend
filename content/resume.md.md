@@ -39,8 +39,7 @@ tags:
 
 **Education:**   
 
-Salt Lake City, UT
-Western Governors University
+Salt Lake City, UT Western Governors University
 Fall 2017 – Fall 2019
 *B.S., Software Development*
 
@@ -57,8 +56,9 @@ Fall 2017 – Fall 2019
 
 *Certifications* 
 
-ITIL Foundations;Oracle SQL Certified Associate;CompTIA Project +;CIW - User Interface Designer;CIW - Advanced HTML5 and CSS3 Specialist;CIW – Site Development Associate Languages
+* ITIL Foundations;Oracle SQL Certified Associate;CompTIA Project +;CIW - User Interface Designer;CIW - Advanced HTML5 and CSS3 Specialist;CIW – Site Development Associate Languages
 
 *Technologies* 
 
-Javascript; Node.js; Python; HTML5;  CSS; Java JIRA; Confluence; Git; Visual Studio Code; Eclipse; REST; GraphQL; GCP; AWS
+* Javascript; Node.js; Python; HTML5;  CSS; Java 
+* JIRA; Confluence; Git; Visual Studio Code; Eclipse; REST; GraphQL; GCP; AWS
