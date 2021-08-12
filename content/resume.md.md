@@ -39,8 +39,12 @@ tags:
 
 **Education:**   
 
-Salt Lake City, UT Western Governors University
+Salt Lake City, UT
+
+ Western Governors University
+
 Fall 2017 – Fall 2019
+
 *B.S., Software Development*
 
 *Undergraduate Coursework*: 
